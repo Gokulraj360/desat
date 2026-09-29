@@ -1,0 +1,13 @@
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Nothing here needs a build step, but ignore these in case tooling is added later
+node_modules/
+.DS_Store
